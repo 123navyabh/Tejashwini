@@ -1,0 +1,7 @@
+{
+  "name": "Portal Pro",
+  "description": "A comprehensive student management system featuring notes, marks tracking, assignment submission, and an AI-powered study assistant. Simulates a full-stack environment with local persistence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
